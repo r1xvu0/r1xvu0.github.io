@@ -1,0 +1,14 @@
+{
+    "There-is-more": {
+        "title": "There is more!",
+        "text": "But wait, there is more! I've added batch of my other projects which are not as high quality as I'd hope for, but they are working and running :)<ul> <li> <b>PyRPG</b> </li> <li><b> PyYBPMT</b> </li></ul><br> Have fun!",
+        "src": "./img/python-logo.png",
+        "id": 2
+    },
+    "PyRGP_Added": {
+        "title": "Godot RPG Project Listed!",
+        "text": "My Godot RPG Project has been added under the Projects page. You can freely download it and use as you wish, if you give credit.<br> It contains the following:<b> <ul><li>Basic Movements </li><li> Attacking </li> <li> !TELEPORT! Skill </li> <li>Wall-Sliding </li> <li>Enemy Following </li> <li> Taking and Dealing damage </li> <li> Picking up gold and other items </li> <li> Talk with NPC </li> <li> HP Restoration </li> <li>Animations used with AnimPlayer </li> <li>And More! </li></ul></b> The only flaw this has is that the code is a lil' bit spaghetti",
+        "src": "./img/slider3.png",
+        "id": 1
+        }
+}
